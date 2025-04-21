@@ -1,5 +1,5 @@
 # soy u1
-# y yo u2. Soy u3 y te toco esta linea
+# sou u3 y aqui mando yo
 
 
 
